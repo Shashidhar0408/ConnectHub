@@ -26,7 +26,7 @@ function HomeComponent() {
 
                 <div style={{ display: "flex", alignItems: "center" }}>
 
-                    <h2>ConnectHub</h2>
+                    <h2>ConnectHub video Call</h2>
                 </div>
 
                 <div style={{ display: "flex", alignItems: "center" }}>
